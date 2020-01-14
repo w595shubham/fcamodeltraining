@@ -22,6 +22,7 @@ import sys
 import cv2
 import numpy as np
 import tensorflow.compat.v1 as tf
+# import sysload_labelmap
 
 # This is needed since the notebook is stored in the object_detection folder.
 sys.path.append("..")
@@ -48,7 +49,7 @@ PATH_TO_LABELS = os.path.join(CWD_PATH, 'training', 'labelmap.pbtxt')
 PATH_TO_IMAGE = os.path.join(CWD_PATH, IMAGE_NAME)
 
 # Number of classes the object detector can identify
-NUM_CLASSES = 6
+NUM_CLASSES = 13
 
 # Load the label map.
 # Label maps map indices to category names, so that when our convolution

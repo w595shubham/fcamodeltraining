@@ -37,7 +37,7 @@ def class_text_to_int(row_label):
         return 3
     elif row_label == 'chocktrack':
         return 4
-    if row_label == 'coilcover':
+    elif row_label == 'coilcover':
         return 5
     elif row_label == 'doorframe':
         return 6
@@ -45,14 +45,16 @@ def class_text_to_int(row_label):
         return 7
     elif row_label == 'handhold':
         return 8
-    if row_label == 'lock':
+    elif row_label == 'lock':
         return 9
-    elif row_label == 'runningboard':
+    elif row_label == 'railcar':
         return 10
-    elif row_label == 'spring':
+    elif row_label == 'runningboard':
         return 11
-    elif row_label == 'wheelchock':
+    elif row_label == 'spring':
         return 12
+    elif row_label == 'wheelchock':
+        return 13
     else:
         None
 

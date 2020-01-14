@@ -45,15 +45,20 @@ item {
 
 item {
   id: 10
-  name: 'runningboard'
+  name: 'railcar'
 }
 
 item {
   id: 11
-  name: 'spring'
+  name: 'runningboard'
 }
 
 item {
   id: 12
+  name: 'spring'
+}
+
+item {
+  id: 13
   name: 'wheelchock'
 }
