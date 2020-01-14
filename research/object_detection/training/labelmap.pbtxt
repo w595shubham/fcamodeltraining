@@ -1,0 +1,59 @@
+item {
+  id: 1
+  name: 'airhose'
+}
+
+item {
+  id: 2
+  name: 'brakelever'
+}
+
+item {
+  id: 3
+  name: 'brakeshoe'
+}
+
+item {
+  id: 4
+  name: 'chocktrack'
+}
+
+item {
+  id: 5
+  name: 'coilcover'
+}
+
+item {
+  id: 6
+  name: 'doorframe'
+}
+
+item {
+  id: 7
+  name: 'efknuckle'
+}
+
+item {
+  id: 8
+  name: 'handhold'
+}
+
+item {
+  id: 9
+  name: 'lock'
+}
+
+item {
+  id: 10
+  name: 'runningboard'
+}
+
+item {
+  id: 11
+  name: 'spring'
+}
+
+item {
+  id: 12
+  name: 'wheelchock'
+}
