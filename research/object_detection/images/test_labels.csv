@@ -70,7 +70,6 @@ filename,width,height,class,xmin,ymin,xmax,ymax
 8test.jpg,240,210,coilcover,1,62,203,122
 9test.jpg,307,164,coilcover,36,46,279,110
 aug1_10test.jpg,275,183,coilcover,0,67,198,113
-aug1_11test.jpg,275,183,coilcover,83,84,275,146
 aug1_12test.jpg,600,450,brakeshoe,254,204,375,398
 aug1_13test.jpg,333,151,coilcover,24,17,308,101
 aug1_14test.jpg,600,400,coilcover,82,109,522,284
