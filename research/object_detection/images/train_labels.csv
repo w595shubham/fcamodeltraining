@@ -1,11 +1,11 @@
 filename,width,height,class,xmin,ymin,xmax,ymax
 1.jpg,490,280,LV Circuit Breaker,85,100,365,280
-10.jpg,600,400,LV Circuit Breaker,69.0,68.0,484.0,590.0
-11.PNG,288,288,LV Circuit Breaker,44,26,251,267
+10.jpg,600,400,LV Circuit Breaker,41.39999771118164,40.77960968017578,290.3999938964844,353.8230895996094
+11.jpg,288,288,LV Circuit Breaker,44,26,251,267
 12.JPG,369,369,LV Circuit Breaker,52,5,334,365
-13.PNG,288,288,LV Circuit Breaker,57,1,261,285
+13.jpg,288,288,LV Circuit Breaker,57,1,261,285
 15.jpg,500,500,LV Circuit Breaker,3,2,496,500
-18.jpg,554,600,LV Circuit Breaker,152.0,18.0,681.0,842.0
+18.jpg,554,600,LV Circuit Breaker,105.26000213623047,12.456747055053711,471.5924987792969,582.698974609375
 19.jpg,369,369,LV Circuit Breaker,54,43,303,312
 20.jpg,480,360,LV Circuit Breaker,21,69,146,300
 4.JPG,369,369,LV Circuit Breaker,182,152,336,360
@@ -14,15 +14,15 @@ filename,width,height,class,xmin,ymin,xmax,ymax
 5.JPG,369,369,LV Circuit Breaker,194,131,244,183
 5.JPG,369,369,LV Circuit Breaker,194,202,246,253
 5.JPG,369,369,LV Circuit Breaker,195,276,244,326
-6.jpg,600,338,LV Circuit Breaker,1.0,59.0,126.0,212.0
-6.jpg,600,338,LV Circuit Breaker,129.0,57.0,278.0,202.0
-6.jpg,600,338,LV Circuit Breaker,280.0,52.0,421.0,195.0
-6.jpg,600,338,LV Circuit Breaker,423.0,49.0,556.0,190.0
-7.png,600,355,LV Circuit Breaker,117.0,20.0,274.0,192.0
-7.png,600,355,LV Circuit Breaker,276.0,19.0,400.0,194.0
-7.png,600,355,LV Circuit Breaker,399.0,41.0,532.0,226.0
+6.jpg,600,338,LV Circuit Breaker,0.9375,55.39444351196289,118.125,199.04444885253906
+6.jpg,600,338,LV Circuit Breaker,120.9375,53.516666412353516,260.625,189.65554809570312
+6.jpg,600,338,LV Circuit Breaker,262.5,48.82222366333008,394.6875,183.08334350585938
+6.jpg,600,338,LV Circuit Breaker,396.5625,46.00555419921875,521.25,178.38890075683594
+7.jpg,600,355,LV Circuit Breaker,103.84615325927734,17.75,243.1952667236328,170.39999389648438
+7.jpg,600,355,LV Circuit Breaker,244.97042846679688,16.862499237060547,355.02960205078125,172.1750030517578
+7.jpg,600,355,LV Circuit Breaker,354.1419982910156,36.38750076293945,472.1893310546875,200.5749969482422
 8.JPG,369,369,LV Circuit Breaker,59,9,317,366
-9.PNG,288,288,LV Circuit Breaker,34,2,263,286
+9.jpg,288,288,LV Circuit Breaker,34,2,263,286
 minera1.jpg,211,268,Transformer - oil/liquid filled,4,15,197,238
 minera2.jpg,225,225,Transformer - oil/liquid filled,6,36,220,207
 minera3.jpg,225,225,Transformer - oil/liquid filled,15,2,209,220
@@ -44,14 +44,14 @@ trihalSurround4.jpg,282,179,Transformer - dry,19,71,84,136
 trihalSurround4.jpg,282,179,Transformer - dry,85,71,135,120
 trihalSurround4.jpg,282,179,Transformer - dry,146,73,235,145
 trihalSurround4.jpg,282,179,Transformer - dry,234,71,266,129
-trihalSurround5.jpg,600,479,Transformer - dry,318.0,241.0,723.0,648.0
+trihalSurround5.jpg,600,479,Transformer - dry,186.328125,141.12347412109375,423.6328125,379.45233154296875
 aug1_1.jpg,490,280,LV Circuit Breaker,125.0,100.0,405.0,280.0
-aug1_10.jpg,600,400,LV Circuit Breaker,116.0,68.0,531.0,400.0
-aug1_11.PNG,288,288,LV Circuit Breaker,44.0,21.0,251.0,262.0
+aug1_10.jpg,600,400,LV Circuit Breaker,309.6000061035156,40.77960968017578,558.5999755859375,353.8230895996094
+aug1_11.jpg,288,288,LV Circuit Breaker,44.0,21.0,251.0,262.0
 aug1_12.JPG,369,369,LV Circuit Breaker,52.0,4.0,334.0,364.0
-aug1_13.PNG,288,288,LV Circuit Breaker,57.0,1.0,261.0,285.0
+aug1_13.jpg,288,288,LV Circuit Breaker,57.0,1.0,261.0,285.0
 aug1_15.jpg,500,500,LV Circuit Breaker,3.0,2.0,496.0,500.0
-aug1_18.jpg,554,600,LV Circuit Breaker,0.0,18.0,402.0,600.0
+aug1_18.jpg,554,600,LV Circuit Breaker,82.40750122070312,12.456747055053711,448.739990234375,582.698974609375
 aug1_19.jpg,369,369,LV Circuit Breaker,66.0,43.0,315.0,312.0
 aug1_20.jpg,480,360,LV Circuit Breaker,21.0,69.0,146.0,300.0
 aug1_4.JPG,369,369,LV Circuit Breaker,182.0,152.0,336.0,360.0
@@ -60,15 +60,15 @@ aug1_5.JPG,369,369,LV Circuit Breaker,100.0,138.0,161.0,194.0
 aug1_5.JPG,369,369,LV Circuit Breaker,194.0,186.0,244.0,238.0
 aug1_5.JPG,369,369,LV Circuit Breaker,194.0,116.0,246.0,167.0
 aug1_5.JPG,369,369,LV Circuit Breaker,195.0,43.0,244.0,93.0
-aug1_6.jpg,600,338,LV Circuit Breaker,474.0,59.0,599.0,212.0
-aug1_6.jpg,600,338,LV Circuit Breaker,322.0,57.0,471.0,202.0
-aug1_6.jpg,600,338,LV Circuit Breaker,179.0,52.0,320.0,195.0
-aug1_6.jpg,600,338,LV Circuit Breaker,44.0,49.0,177.0,190.0
-aug1_7.png,600,355,LV Circuit Breaker,117.0,20.0,274.0,192.0
-aug1_7.png,600,355,LV Circuit Breaker,276.0,19.0,400.0,194.0
-aug1_7.png,600,355,LV Circuit Breaker,399.0,41.0,532.0,226.0
+aug1_6.jpg,600,338,LV Circuit Breaker,481.875,55.39444351196289,599.0625,199.04444885253906
+aug1_6.jpg,600,338,LV Circuit Breaker,339.375,53.516666412353516,479.0625,189.65554809570312
+aug1_6.jpg,600,338,LV Circuit Breaker,205.3125,48.82222366333008,337.5,183.08334350585938
+aug1_6.jpg,600,338,LV Circuit Breaker,78.75,46.00555419921875,203.4375,178.38890075683594
+aug1_7.jpg,600,355,LV Circuit Breaker,103.84615325927734,17.75,243.1952667236328,170.39999389648438
+aug1_7.jpg,600,355,LV Circuit Breaker,244.97042846679688,16.862499237060547,355.02960205078125,172.1750030517578
+aug1_7.jpg,600,355,LV Circuit Breaker,354.1419982910156,36.38750076293945,472.1893310546875,200.5749969482422
 aug1_8.JPG,369,369,LV Circuit Breaker,59.0,9.0,317.0,366.0
-aug1_9.PNG,288,288,LV Circuit Breaker,25.0,2.0,254.0,286.0
+aug1_9.jpg,288,288,LV Circuit Breaker,25.0,2.0,254.0,286.0
 aug1_minera1.jpg,211,268,Transformer - oil/liquid filled,14.0,15.0,207.0,238.0
 aug1_minera2.jpg,225,225,Transformer - oil/liquid filled,6.0,18.0,220.0,189.0
 aug1_minera3.jpg,225,225,Transformer - oil/liquid filled,15.0,2.0,209.0,220.0
@@ -90,14 +90,14 @@ aug1_trihalSurround4.jpg,282,179,Transformer - dry,19.0,71.0,84.0,136.0
 aug1_trihalSurround4.jpg,282,179,Transformer - dry,85.0,71.0,135.0,120.0
 aug1_trihalSurround4.jpg,282,179,Transformer - dry,146.0,73.0,235.0,145.0
 aug1_trihalSurround4.jpg,282,179,Transformer - dry,234.0,71.0,266.0,129.0
-aug1_trihalSurround5.jpg,600,479,Transformer - dry,0.0,241.0,282.0,479.0
+aug1_trihalSurround5.jpg,600,479,Transformer - dry,176.3671875,141.12347412109375,413.671875,379.45233154296875
 aug2_1.jpg,490,280,LV Circuit Breaker,85.0,0.0,365.0,180.0
-aug2_10.jpg,600,400,LV Circuit Breaker,116.0,68.0,531.0,400.0
-aug2_11.PNG,288,288,LV Circuit Breaker,44.0,26.0,251.0,267.0
+aug2_10.jpg,600,400,LV Circuit Breaker,309.6000061035156,40.77960968017578,558.5999755859375,353.8230895996094
+aug2_11.jpg,288,288,LV Circuit Breaker,44.0,26.0,251.0,267.0
 aug2_12.JPG,369,369,LV Circuit Breaker,35.0,5.0,317.0,365.0
-aug2_13.PNG,288,288,LV Circuit Breaker,27.0,1.0,231.0,285.0
+aug2_13.jpg,288,288,LV Circuit Breaker,27.0,1.0,231.0,285.0
 aug2_15.jpg,500,500,LV Circuit Breaker,3.0,0.0,496.0,498.0
-aug2_18.jpg,554,600,LV Circuit Breaker,0.0,18.0,402.0,600.0
+aug2_18.jpg,554,600,LV Circuit Breaker,82.40750122070312,12.456747055053711,448.739990234375,582.698974609375
 aug2_19.jpg,369,369,LV Circuit Breaker,66.0,43.0,315.0,312.0
 aug2_20.jpg,480,360,LV Circuit Breaker,334.0,69.0,459.0,300.0
 aug2_4.JPG,369,369,LV Circuit Breaker,33.0,152.0,187.0,360.0
@@ -106,15 +106,15 @@ aug2_5.JPG,369,369,LV Circuit Breaker,208.0,175.0,269.0,231.0
 aug2_5.JPG,369,369,LV Circuit Breaker,125.0,131.0,175.0,183.0
 aug2_5.JPG,369,369,LV Circuit Breaker,123.0,202.0,175.0,253.0
 aug2_5.JPG,369,369,LV Circuit Breaker,125.0,276.0,174.0,326.0
-aug2_6.jpg,600,338,LV Circuit Breaker,474.0,59.0,599.0,212.0
-aug2_6.jpg,600,338,LV Circuit Breaker,322.0,57.0,471.0,202.0
-aug2_6.jpg,600,338,LV Circuit Breaker,179.0,52.0,320.0,195.0
-aug2_6.jpg,600,338,LV Circuit Breaker,44.0,49.0,177.0,190.0
-aug2_7.png,600,355,LV Circuit Breaker,326.0,20.0,483.0,192.0
-aug2_7.png,600,355,LV Circuit Breaker,200.0,19.0,324.0,194.0
-aug2_7.png,600,355,LV Circuit Breaker,68.0,41.0,201.0,226.0
+aug2_6.jpg,600,338,LV Circuit Breaker,481.875,55.39444351196289,599.0625,199.04444885253906
+aug2_6.jpg,600,338,LV Circuit Breaker,339.375,53.516666412353516,479.0625,189.65554809570312
+aug2_6.jpg,600,338,LV Circuit Breaker,205.3125,48.82222366333008,337.5,183.08334350585938
+aug2_6.jpg,600,338,LV Circuit Breaker,78.75,46.00555419921875,203.4375,178.38890075683594
+aug2_7.jpg,600,355,LV Circuit Breaker,356.80474853515625,17.75,496.1538391113281,170.39999389648438
+aug2_7.jpg,600,355,LV Circuit Breaker,244.97039794921875,16.862499237060547,355.0295715332031,172.1750030517578
+aug2_7.jpg,600,355,LV Circuit Breaker,127.8106689453125,36.38750076293945,245.85800170898438,200.5749969482422
 aug2_8.JPG,369,369,LV Circuit Breaker,59.0,9.0,317.0,366.0
-aug2_9.PNG,288,288,LV Circuit Breaker,25.0,2.0,254.0,286.0
+aug2_9.jpg,288,288,LV Circuit Breaker,25.0,2.0,254.0,286.0
 aug2_minera1.jpg,211,268,Transformer - oil/liquid filled,14.0,15.0,207.0,238.0
 aug2_minera2.jpg,225,225,Transformer - oil/liquid filled,6.0,36.0,220.0,207.0
 aug2_minera3.jpg,225,225,Transformer - oil/liquid filled,15.0,2.0,209.0,220.0
@@ -136,14 +136,14 @@ aug2_trihalSurround4.jpg,282,179,Transformer - dry,19.0,43.0,84.0,108.0
 aug2_trihalSurround4.jpg,282,179,Transformer - dry,85.0,59.0,135.0,108.0
 aug2_trihalSurround4.jpg,282,179,Transformer - dry,146.0,34.0,235.0,106.0
 aug2_trihalSurround4.jpg,282,179,Transformer - dry,234.0,50.0,266.0,108.0
-aug2_trihalSurround5.jpg,600,479,Transformer - dry,318.0,0.0,600.0,238.0
+aug2_trihalSurround5.jpg,600,479,Transformer - dry,186.328125,99.54766845703125,423.6328125,337.87652587890625
 aug3_1.jpg,490,280,LV Circuit Breaker,125.0,100.0,405.0,280.0
-aug3_10.jpg,600,400,LV Circuit Breaker,69.0,68.0,484.0,400.0
-aug3_11.PNG,288,288,LV Circuit Breaker,37.0,26.0,244.0,267.0
+aug3_10.jpg,600,400,LV Circuit Breaker,41.39999771118164,40.77960968017578,290.3999938964844,353.8230895996094
+aug3_11.jpg,288,288,LV Circuit Breaker,37.0,26.0,244.0,267.0
 aug3_12.JPG,369,369,LV Circuit Breaker,52.0,4.0,334.0,364.0
-aug3_13.PNG,288,288,LV Circuit Breaker,57.0,1.0,261.0,285.0
+aug3_13.jpg,288,288,LV Circuit Breaker,57.0,1.0,261.0,285.0
 aug3_15.jpg,500,500,LV Circuit Breaker,4.0,0.0,497.0,498.0
-aug3_18.jpg,554,600,LV Circuit Breaker,152.0,0.0,554.0,582.0
+aug3_18.jpg,554,600,LV Circuit Breaker,105.26000213623047,17.301025390625,471.5924987792969,587.5432739257812
 aug3_19.jpg,369,369,LV Circuit Breaker,66.0,57.0,315.0,326.0
 aug3_20.jpg,480,360,LV Circuit Breaker,21.0,69.0,146.0,300.0
 aug3_4.JPG,369,369,LV Circuit Breaker,182.0,9.0,336.0,217.0
@@ -152,15 +152,15 @@ aug3_5.JPG,369,369,LV Circuit Breaker,100.0,175.0,161.0,231.0
 aug3_5.JPG,369,369,LV Circuit Breaker,194.0,131.0,244.0,183.0
 aug3_5.JPG,369,369,LV Circuit Breaker,194.0,202.0,246.0,253.0
 aug3_5.JPG,369,369,LV Circuit Breaker,195.0,276.0,244.0,326.0
-aug3_6.jpg,600,338,LV Circuit Breaker,474.0,59.0,599.0,212.0
-aug3_6.jpg,600,338,LV Circuit Breaker,322.0,57.0,471.0,202.0
-aug3_6.jpg,600,338,LV Circuit Breaker,179.0,52.0,320.0,195.0
-aug3_6.jpg,600,338,LV Circuit Breaker,44.0,49.0,177.0,190.0
-aug3_7.png,600,355,LV Circuit Breaker,326.0,20.0,483.0,192.0
-aug3_7.png,600,355,LV Circuit Breaker,200.0,19.0,324.0,194.0
-aug3_7.png,600,355,LV Circuit Breaker,68.0,41.0,201.0,226.0
+aug3_6.jpg,600,338,LV Circuit Breaker,481.875,55.39444351196289,599.0625,199.04444885253906
+aug3_6.jpg,600,338,LV Circuit Breaker,339.375,53.516666412353516,479.0625,189.65554809570312
+aug3_6.jpg,600,338,LV Circuit Breaker,205.3125,48.82222366333008,337.5,183.08334350585938
+aug3_6.jpg,600,338,LV Circuit Breaker,78.75,46.00555419921875,203.4375,178.38890075683594
+aug3_7.jpg,600,355,LV Circuit Breaker,356.80474853515625,17.75,496.1538391113281,170.39999389648438
+aug3_7.jpg,600,355,LV Circuit Breaker,244.97039794921875,16.862499237060547,355.0295715332031,172.1750030517578
+aug3_7.jpg,600,355,LV Circuit Breaker,127.8106689453125,36.38750076293945,245.85800170898438,200.5749969482422
 aug3_8.JPG,369,369,LV Circuit Breaker,59.0,3.0,317.0,360.0
-aug3_9.PNG,288,288,LV Circuit Breaker,25.0,2.0,254.0,286.0
+aug3_9.jpg,288,288,LV Circuit Breaker,25.0,2.0,254.0,286.0
 aug3_minera1.jpg,211,268,Transformer - oil/liquid filled,14.0,15.0,207.0,238.0
 aug3_minera2.jpg,225,225,Transformer - oil/liquid filled,6.0,18.0,220.0,189.0
 aug3_minera3.jpg,225,225,Transformer - oil/liquid filled,15.0,5.0,209.0,223.0
@@ -182,14 +182,14 @@ aug3_trihalSurround4.jpg,282,179,Transformer - dry,19.0,43.0,84.0,108.0
 aug3_trihalSurround4.jpg,282,179,Transformer - dry,85.0,59.0,135.0,108.0
 aug3_trihalSurround4.jpg,282,179,Transformer - dry,146.0,34.0,235.0,106.0
 aug3_trihalSurround4.jpg,282,179,Transformer - dry,234.0,50.0,266.0,108.0
-aug3_trihalSurround5.jpg,600,479,Transformer - dry,0.0,241.0,282.0,479.0
+aug3_trihalSurround5.jpg,600,479,Transformer - dry,176.3671875,141.12347412109375,413.671875,379.45233154296875
 aug4_1.jpg,490,280,LV Circuit Breaker,85.0,100.0,365.0,280.0
-aug4_10.jpg,600,400,LV Circuit Breaker,116.0,0.0,531.0,332.0
-aug4_11.PNG,288,288,LV Circuit Breaker,37.0,26.0,244.0,267.0
+aug4_10.jpg,600,400,LV Circuit Breaker,309.6000061035156,46.176910400390625,558.5999755859375,359.22039794921875
+aug4_11.jpg,288,288,LV Circuit Breaker,37.0,26.0,244.0,267.0
 aug4_12.JPG,369,369,LV Circuit Breaker,52.0,5.0,334.0,365.0
-aug4_13.PNG,288,288,LV Circuit Breaker,27.0,3.0,231.0,287.0
+aug4_13.jpg,288,288,LV Circuit Breaker,27.0,3.0,231.0,287.0
 aug4_15.jpg,500,500,LV Circuit Breaker,3.0,0.0,496.0,498.0
-aug4_18.jpg,554,600,LV Circuit Breaker,0.0,18.0,402.0,600.0
+aug4_18.jpg,554,600,LV Circuit Breaker,82.40750122070312,12.456747055053711,448.739990234375,582.698974609375
 aug4_19.jpg,369,369,LV Circuit Breaker,66.0,43.0,315.0,312.0
 aug4_20.jpg,480,360,LV Circuit Breaker,21.0,60.0,146.0,291.0
 aug4_4.JPG,369,369,LV Circuit Breaker,182.0,152.0,336.0,360.0
@@ -198,15 +198,15 @@ aug4_5.JPG,369,369,LV Circuit Breaker,100.0,138.0,161.0,194.0
 aug4_5.JPG,369,369,LV Circuit Breaker,194.0,186.0,244.0,238.0
 aug4_5.JPG,369,369,LV Circuit Breaker,194.0,116.0,246.0,167.0
 aug4_5.JPG,369,369,LV Circuit Breaker,195.0,43.0,244.0,93.0
-aug4_6.jpg,600,338,LV Circuit Breaker,1.0,126.0,126.0,279.0
-aug4_6.jpg,600,338,LV Circuit Breaker,129.0,136.0,278.0,281.0
-aug4_6.jpg,600,338,LV Circuit Breaker,280.0,143.0,421.0,286.0
-aug4_6.jpg,600,338,LV Circuit Breaker,423.0,148.0,556.0,289.0
-aug4_7.png,600,355,LV Circuit Breaker,117.0,163.0,274.0,335.0
-aug4_7.png,600,355,LV Circuit Breaker,276.0,161.0,400.0,336.0
-aug4_7.png,600,355,LV Circuit Breaker,399.0,129.0,532.0,314.0
+aug4_6.jpg,600,338,LV Circuit Breaker,0.9375,138.95555114746094,118.125,282.6055603027344
+aug4_6.jpg,600,338,LV Circuit Breaker,120.9375,148.34445190429688,260.625,284.48333740234375
+aug4_6.jpg,600,338,LV Circuit Breaker,262.5,154.91665649414062,394.6875,289.1777648925781
+aug4_6.jpg,600,338,LV Circuit Breaker,396.5625,159.61109924316406,521.25,291.99444580078125
+aug4_7.jpg,600,355,LV Circuit Breaker,103.84615325927734,184.60000610351562,243.1952667236328,337.25
+aug4_7.jpg,600,355,LV Circuit Breaker,244.97042846679688,182.8249969482422,355.02960205078125,338.13751220703125
+aug4_7.jpg,600,355,LV Circuit Breaker,354.1419982910156,154.4250030517578,472.1893310546875,318.61248779296875
 aug4_8.JPG,369,369,LV Circuit Breaker,52.0,9.0,310.0,366.0
-aug4_9.PNG,288,288,LV Circuit Breaker,34.0,2.0,263.0,286.0
+aug4_9.jpg,288,288,LV Circuit Breaker,34.0,2.0,263.0,286.0
 aug4_minera1.jpg,211,268,Transformer - oil/liquid filled,14.0,15.0,207.0,238.0
 aug4_minera2.jpg,225,225,Transformer - oil/liquid filled,5.0,36.0,219.0,207.0
 aug4_minera3.jpg,225,225,Transformer - oil/liquid filled,15.0,5.0,209.0,223.0
@@ -228,14 +228,14 @@ aug4_trihalSurround4.jpg,282,179,Transformer - dry,19.0,71.0,84.0,136.0
 aug4_trihalSurround4.jpg,282,179,Transformer - dry,85.0,71.0,135.0,120.0
 aug4_trihalSurround4.jpg,282,179,Transformer - dry,146.0,73.0,235.0,145.0
 aug4_trihalSurround4.jpg,282,179,Transformer - dry,234.0,71.0,266.0,129.0
-aug4_trihalSurround5.jpg,600,479,Transformer - dry,318.0,0.0,600.0,238.0
+aug4_trihalSurround5.jpg,600,479,Transformer - dry,186.328125,99.54766845703125,423.6328125,337.87652587890625
 aug5_1.jpg,490,280,LV Circuit Breaker,125.0,100.0,405.0,280.0
-aug5_10.jpg,600,400,LV Circuit Breaker,69.0,0.0,484.0,332.0
-aug5_11.PNG,288,288,LV Circuit Breaker,44.0,26.0,251.0,267.0
+aug5_10.jpg,600,400,LV Circuit Breaker,41.39999771118164,46.176910400390625,290.3999938964844,359.22039794921875
+aug5_11.jpg,288,288,LV Circuit Breaker,44.0,26.0,251.0,267.0
 aug5_12.JPG,369,369,LV Circuit Breaker,35.0,4.0,317.0,364.0
-aug5_13.PNG,288,288,LV Circuit Breaker,57.0,3.0,261.0,287.0
+aug5_13.jpg,288,288,LV Circuit Breaker,57.0,3.0,261.0,287.0
 aug5_15.jpg,500,500,LV Circuit Breaker,4.0,2.0,497.0,500.0
-aug5_18.jpg,554,600,LV Circuit Breaker,152.0,18.0,554.0,600.0
+aug5_18.jpg,554,600,LV Circuit Breaker,105.26000213623047,12.456747055053711,471.5924987792969,582.698974609375
 aug5_19.jpg,369,369,LV Circuit Breaker,66.0,43.0,315.0,312.0
 aug5_20.jpg,480,360,LV Circuit Breaker,334.0,69.0,459.0,300.0
 aug5_4.JPG,369,369,LV Circuit Breaker,182.0,9.0,336.0,217.0
@@ -244,15 +244,15 @@ aug5_5.JPG,369,369,LV Circuit Breaker,208.0,175.0,269.0,231.0
 aug5_5.JPG,369,369,LV Circuit Breaker,125.0,131.0,175.0,183.0
 aug5_5.JPG,369,369,LV Circuit Breaker,123.0,202.0,175.0,253.0
 aug5_5.JPG,369,369,LV Circuit Breaker,125.0,276.0,174.0,326.0
-aug5_6.jpg,600,338,LV Circuit Breaker,1.0,126.0,126.0,279.0
-aug5_6.jpg,600,338,LV Circuit Breaker,129.0,136.0,278.0,281.0
-aug5_6.jpg,600,338,LV Circuit Breaker,280.0,143.0,421.0,286.0
-aug5_6.jpg,600,338,LV Circuit Breaker,423.0,148.0,556.0,289.0
-aug5_7.png,600,355,LV Circuit Breaker,117.0,163.0,274.0,335.0
-aug5_7.png,600,355,LV Circuit Breaker,276.0,161.0,400.0,336.0
-aug5_7.png,600,355,LV Circuit Breaker,399.0,129.0,532.0,314.0
+aug5_6.jpg,600,338,LV Circuit Breaker,0.9375,138.95555114746094,118.125,282.6055603027344
+aug5_6.jpg,600,338,LV Circuit Breaker,120.9375,148.34445190429688,260.625,284.48333740234375
+aug5_6.jpg,600,338,LV Circuit Breaker,262.5,154.91665649414062,394.6875,289.1777648925781
+aug5_6.jpg,600,338,LV Circuit Breaker,396.5625,159.61109924316406,521.25,291.99444580078125
+aug5_7.jpg,600,355,LV Circuit Breaker,103.84615325927734,184.60000610351562,243.1952667236328,337.25
+aug5_7.jpg,600,355,LV Circuit Breaker,244.97042846679688,182.8249969482422,355.02960205078125,338.13751220703125
+aug5_7.jpg,600,355,LV Circuit Breaker,354.1419982910156,154.4250030517578,472.1893310546875,318.61248779296875
 aug5_8.JPG,369,369,LV Circuit Breaker,59.0,3.0,317.0,360.0
-aug5_9.PNG,288,288,LV Circuit Breaker,25.0,2.0,254.0,286.0
+aug5_9.jpg,288,288,LV Circuit Breaker,25.0,2.0,254.0,286.0
 aug5_minera1.jpg,211,268,Transformer - oil/liquid filled,4.0,15.0,197.0,238.0
 aug5_minera2.jpg,225,225,Transformer - oil/liquid filled,6.0,36.0,220.0,207.0
 aug5_minera3.jpg,225,225,Transformer - oil/liquid filled,15.0,2.0,209.0,220.0
@@ -274,4 +274,4 @@ aug5_trihalSurround4.jpg,282,179,Transformer - dry,19.0,71.0,84.0,136.0
 aug5_trihalSurround4.jpg,282,179,Transformer - dry,85.0,71.0,135.0,120.0
 aug5_trihalSurround4.jpg,282,179,Transformer - dry,146.0,73.0,235.0,145.0
 aug5_trihalSurround4.jpg,282,179,Transformer - dry,234.0,71.0,266.0,129.0
-aug5_trihalSurround5.jpg,600,479,Transformer - dry,318.0,0.0,600.0,238.0
+aug5_trihalSurround5.jpg,600,479,Transformer - dry,186.328125,99.54766845703125,423.6328125,337.87652587890625
