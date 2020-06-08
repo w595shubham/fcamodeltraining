@@ -1,19 +1,15 @@
 item {
   id: 1
-  name: 'brakeshoe'
+  name: 'LV Circuit Breaker'
 }
 
 item {
   id: 2
-  name: 'coilcover'
+  name: 'Transformer - oil/liquid filled'
 }
 
 item {
   id: 3
-  name: 'efknuckle'
+  name: 'Transformer - dry'
 }
 
-item {
-  id: 4
-  name: 'spring'
-}

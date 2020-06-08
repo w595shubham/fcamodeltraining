@@ -29,14 +29,12 @@ FLAGS = flags.FLAGS
 
 # TO-DO replace this with label map
 def class_text_to_int(row_label):
-    if row_label == 'brakeshoe':
+    if row_label == 'LV Circuit Breaker':
         return 1
-    elif row_label == 'coilcover':
+    elif row_label == 'Transformer - oil/liquid filled':
         return 2
-    elif row_label == 'efknuckle':
+    elif row_label == 'Transformer - dry':
         return 3
-    elif row_label == 'spring':
-        return 4
     else:
         0
 
