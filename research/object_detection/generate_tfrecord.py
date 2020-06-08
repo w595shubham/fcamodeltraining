@@ -38,7 +38,7 @@ def class_text_to_int(row_label):
     elif row_label == 'spring':
         return 4
     else:
-        None
+        0
 
 
 def split(df, group):
