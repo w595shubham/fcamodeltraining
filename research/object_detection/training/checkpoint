@@ -1,6 +1,0 @@
-model_checkpoint_path: "/content/fcamodeltraining/research/object_detection/training/model.ckpt-169762"
-all_model_checkpoint_paths: "/content/fcamodeltraining/research/object_detection/training/model.ckpt-153721"
-all_model_checkpoint_paths: "/content/fcamodeltraining/research/object_detection/training/model.ckpt-157687"
-all_model_checkpoint_paths: "/content/fcamodeltraining/research/object_detection/training/model.ckpt-161665"
-all_model_checkpoint_paths: "/content/fcamodeltraining/research/object_detection/training/model.ckpt-165704"
-all_model_checkpoint_paths: "/content/fcamodeltraining/research/object_detection/training/model.ckpt-169762"
